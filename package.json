@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rgroves/socket-chat-example/issues"
   },
-  "homepage": "https://github.com/rgroves/socket-chat-example#readme"
+  "homepage": "https://github.com/rgroves/socket-chat-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
